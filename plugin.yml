@@ -1,6 +1,0 @@
-name: CustomGamemode
-version: 1.0.0
-api: 3.0.0
-main: gm\Loader
-author: YoAn1680
-description: Plugins changants et ajoutant des permissions uniques au commandes de gamemodes.
